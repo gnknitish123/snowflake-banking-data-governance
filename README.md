@@ -178,4 +178,3 @@ This project uses synthetic banking data for educational and demonstration purpo
 
 **Nitish Kumar**
 
-GitHub: [Add your GitHub profile URL here]
